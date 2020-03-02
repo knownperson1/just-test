@@ -1,4 +1,4 @@
-Learn more or give us feedback
+
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 
